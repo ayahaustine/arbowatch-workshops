@@ -14,6 +14,7 @@ listing:
 
 The ARBO-WATCH project seeks to design and deploy dengue and Chikungunya fever decision support tools informed by process-based models in Kenya, Somalia and Ethiopia. These analyses will utilize relevant primary and secondary data from all these countries to uncover broader epidemiological patterns of these diseases in the region. The project is being implemented by a consortium made up of nine institutions including ILRI, the Kenya Medical Research Institute, Kenya’s Ministry of Health, Jomo Kenyatta University of Agriculture and Technology, Ethiopia Public Health Institute, Global One Health Initiative, Ohio State University, Abrar University and the Ministry of Health Somalia.
 
+Read [here to learn more](https://www.ilri.org/research/projects/arbo-watch-project) about the project.
 
 {{< video https://www.youtube.com/watch?v=DwMV8qmgmbA >}}
 

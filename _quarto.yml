@@ -6,6 +6,7 @@ website:
   title: "ARBO-WATCH"
   search: true
   navbar:
+    logo: assets/logo/arbowatch.png
     left:
       - href: index.qmd
         text: Home

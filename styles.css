@@ -9,6 +9,17 @@ body {
   letter-spacing: 0.03em;
 }
 
+.navbar-brand-logo .navbar-logo {
+  max-height: 64px !important;
+  height: 64px !important;
+  width: auto;
+}
+
+.navbar-brand-container {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
 /* ----- Page headings ----- */
 h2 {
   padding-bottom: 0.3rem;
