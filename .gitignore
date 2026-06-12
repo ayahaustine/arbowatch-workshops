@@ -8,8 +8,9 @@ _freeze/
 /.quarto/
 
 # Quarto rendered outputs (go to _site/ via output-dir)
-*.html
-*.json
+/*.html
+/index-listing.json
+workshops/**/*.html
 site_libs/
 
 # R
