@@ -1,6 +1,6 @@
 ---
-title: "Data Collection and Ethics"
-subtitle: "Monitoring Protocols & Group Discussion"
+title: "Digital Data Collection Tools: Getting Started on Google Forms"
+subtitle: "Using Google Forms for data collection and management"
 date: 2024-08-25
 ---
 
